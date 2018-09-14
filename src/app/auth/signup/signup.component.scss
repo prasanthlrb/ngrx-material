@@ -1,0 +1,10 @@
+.form-control {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form-control > * {
+    width: 50%;
+  }
